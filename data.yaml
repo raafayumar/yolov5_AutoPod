@@ -1,0 +1,5 @@
+train: /home/user-cit/Desktop/dms/Train
+val: /home/user-cit/Desktop/dms/Test
+
+nc: 3  # Number of classes
+names: ['FOCUSED', 'SLEEPY', 'DISCTRACTED']  # Class names
